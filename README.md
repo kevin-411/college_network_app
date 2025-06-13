@@ -43,8 +43,8 @@ A comprehensive social networking platform designed specifically for college stu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/kevin-411/college-network-platform.git
-   cd college-network-platform
+   git clone https://github.com/kevin-411/college_network_app.git
+   cd college_network_app
    ```
 
 2. **Install dependencies**
@@ -184,50 +184,3 @@ VITE_CLOUDINARY_UPLOAD_PRESET=your_upload_preset
 # Analytics (Optional)
 VITE_GOOGLE_ANALYTICS_ID=your_ga_id
 ```
-
-## 📱 Mobile App
-
-The platform is fully responsive and works as a Progressive Web App (PWA). For native mobile apps, consider:
-
-- React Native implementation
-- Expo managed workflow
-- Capacitor for hybrid apps
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit changes: `git commit -m 'Add amazing feature'`
-4. Push to branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow TypeScript best practices
-- Write tests for new features
-- Use conventional commit messages
-- Ensure responsive design
-- Maintain accessibility standards
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-For support and questions:
-
-- Create an issue on GitHub
-- Email: support@collegenetwork.edu
-- Documentation: [docs.collegenetwork.edu](https://docs.collegenetwork.edu)
-
-## 🎉 Acknowledgments
-
-- React team for the amazing framework
-- Tailwind CSS for the utility-first CSS framework
-- Lucide for the beautiful icons
-- All contributors and beta testers
-
----
-
-**Built with ❤️ for the college community**
